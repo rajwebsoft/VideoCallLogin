@@ -1,0 +1,7 @@
+{
+  "name": "React Video Call",
+  "description": "React Video Call App powered by WebRTC, React and Socket.io",
+  "repository": "https://github.com/rajwebsoft/VideoCallReactJs",
+  "logo": "https://raw.githubusercontent.com/rajwebsoft/VideoCallReactJs/master/client/src/assets/icon1.png",
+  "keywords": ["react", "express", "video call"]
+}

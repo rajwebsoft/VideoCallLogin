@@ -1,0 +1,22 @@
+{
+  "name": "react-videocall",
+  "version": "2.0.0",
+  "description": "React VideoCall App",
+  "main": " ",
+  "scripts": {
+    "install": "sh install.sh",
+    "postinstall": "cd client && yarn build",
+    "start": "cd server && yarn start",
+    "dev": "cd server && yarn watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajwebsoft/VideoCallReactJs.git"
+  },
+  "engines": {
+    "node": "10.15.2",
+    "yarn": "1.21.1"
+  },
+  "author": "Raj Kumar",
+  "license": "MIT"
+}
